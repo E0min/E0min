@@ -9,7 +9,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=E0min&show_icons=true&theme=radical)
