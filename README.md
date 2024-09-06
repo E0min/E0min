@@ -34,11 +34,11 @@
 </p>
 
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://solved.ac/bbok3yo">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bbok3yo" alt="Solved.ac 프로필">
   </a>
-</p> -->
+</p> 
 
 
 
