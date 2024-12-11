@@ -1,4 +1,4 @@
-
+<!--
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Welcome+to+E0min+github" alt="Typing SVG">
@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-<!-- 중앙 정렬을 위한 HTML 코드 -->
 <h3 align="center">My top langs</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs" height="195px">
@@ -40,6 +39,6 @@
   </a>
 </p> 
 
-
+-->
 
 
